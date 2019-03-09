@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\h6gupta\Downloads\Nearest_Neighbours\thirdparty\libpthreads\pthreads-win32\attr.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\h6gupta\Downloads\Nearest_Neighbours\thirdparty\libpthreads\pthreads-win32\barrier.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\h6gupta\Downloads\Nearest_Neighbours\thirdparty\libpthreads\pthreads-win32\cancel.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\h6gupta\Downloads\Nearest_Neighbours\thirdparty\libpthreads\pthreads-win32\cleanup.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\h6gupta\Downloads\Nearest_Neighbours\thirdparty\libpthreads\pthreads-win32\condvar.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\h6gupta\Downloads\Nearest_Neighbours\thirdparty\libpthreads\pthreads-win32\create.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\h6gupta\Downloads\Nearest_Neighbours\thirdparty\libpthreads\pthreads-win32\dll.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\h6gupta\Downloads\Nearest_Neighbours\thirdparty\libpthreads\pthreads-win32\autostatic.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\h6gupta\Downloads\Nearest_Neighbours\thirdparty\libpthreads\pthreads-win32\errno.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\h6gupta\Downloads\Nearest_Neighbours\thirdparty\libpthreads\pthreads-win32\exit.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\h6gupta\Downloads\Nearest_Neighbours\thirdparty\libpthreads\pthreads-win32\fork.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\h6gupta\Downloads\Nearest_Neighbours\thirdparty\libpthreads\pthreads-win32\global.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\h6gupta\Downloads\Nearest_Neighbours\thirdparty\libpthreads\pthreads-win32\misc.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\h6gupta\Downloads\Nearest_Neighbours\thirdparty\libpthreads\pthreads-win32\mutex.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\h6gupta\Downloads\Nearest_Neighbours\thirdparty\libpthreads\pthreads-win32\nonportable.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\h6gupta\Downloads\Nearest_Neighbours\thirdparty\libpthreads\pthreads-win32\private.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\h6gupta\Downloads\Nearest_Neighbours\thirdparty\libpthreads\pthreads-win32\rwlock.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\h6gupta\Downloads\Nearest_Neighbours\thirdparty\libpthreads\pthreads-win32\sched.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\h6gupta\Downloads\Nearest_Neighbours\thirdparty\libpthreads\pthreads-win32\semaphore.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\h6gupta\Downloads\Nearest_Neighbours\thirdparty\libpthreads\pthreads-win32\signal.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\h6gupta\Downloads\Nearest_Neighbours\thirdparty\libpthreads\pthreads-win32\spin.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\h6gupta\Downloads\Nearest_Neighbours\thirdparty\libpthreads\pthreads-win32\sync.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\h6gupta\Downloads\Nearest_Neighbours\thirdparty\libpthreads\pthreads-win32\tsd.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\h6gupta\Downloads\Nearest_Neighbours\thirdparty\libpthreads\pthreads-win32\pthread.h">
+      <Filter>PTHREAD_API</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\h6gupta\Downloads\Nearest_Neighbours\thirdparty\libpthreads\pthreads-win32\sched.h">
+      <Filter>PTHREAD_API</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\h6gupta\Downloads\Nearest_Neighbours\thirdparty\libpthreads\pthreads-win32\semaphore.h">
+      <Filter>PTHREAD_API</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\h6gupta\Downloads\Nearest_Neighbours\thirdparty\libpthreads\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="C:\Users\h6gupta\Downloads\Nearest_Neighbours\thirdparty\libpthreads\pthreads-win32\version.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{41D27A64-0630-3D84-A4D8-B7B4147C555F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PTHREAD_API">
+      <UniqueIdentifier>{9ED25F56-D3A7-35F0-818F-77F07112FB26}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\h6gupta\Downloads\Nearest_Neighbours\thirdparty\libpng\example.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\h6gupta\Downloads\Nearest_Neighbours\thirdparty\libpng\png.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\h6gupta\Downloads\Nearest_Neighbours\thirdparty\libpng\pngerror.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\h6gupta\Downloads\Nearest_Neighbours\thirdparty\libpng\pngget.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\h6gupta\Downloads\Nearest_Neighbours\thirdparty\libpng\pngmem.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\h6gupta\Downloads\Nearest_Neighbours\thirdparty\libpng\pngpread.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\h6gupta\Downloads\Nearest_Neighbours\thirdparty\libpng\pngread.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\h6gupta\Downloads\Nearest_Neighbours\thirdparty\libpng\pngrio.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\h6gupta\Downloads\Nearest_Neighbours\thirdparty\libpng\pngrtran.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\h6gupta\Downloads\Nearest_Neighbours\thirdparty\libpng\pngrutil.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\h6gupta\Downloads\Nearest_Neighbours\thirdparty\libpng\pngset.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\h6gupta\Downloads\Nearest_Neighbours\thirdparty\libpng\pngtest.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\h6gupta\Downloads\Nearest_Neighbours\thirdparty\libpng\pngtrans.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\h6gupta\Downloads\Nearest_Neighbours\thirdparty\libpng\pngwio.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\h6gupta\Downloads\Nearest_Neighbours\thirdparty\libpng\pngwrite.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\h6gupta\Downloads\Nearest_Neighbours\thirdparty\libpng\pngwtran.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\h6gupta\Downloads\Nearest_Neighbours\thirdparty\libpng\pngwutil.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\h6gupta\Downloads\Nearest_Neighbours\thirdparty\libpng\png.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\h6gupta\Downloads\Nearest_Neighbours\thirdparty\libpng\pngconf.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\h6gupta\Downloads\Nearest_Neighbours\thirdparty\libpng\pngpriv.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\h6gupta\Downloads\Nearest_Neighbours\thirdparty\include\zlib.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\h6gupta\Downloads\Nearest_Neighbours\thirdparty\include\zconf.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\h6gupta\Downloads\Nearest_Neighbours\thirdparty\libpng\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{41D27A64-0630-3D84-A4D8-B7B4147C555F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{8BC0E3FB-FE55-3D8B-A467-7AD7254E4F13}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
