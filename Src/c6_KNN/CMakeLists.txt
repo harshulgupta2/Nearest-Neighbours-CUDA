@@ -17,6 +17,8 @@ cuda_add_executable( KNN
 ${HEADERS}
 main.cpp
 KNN.cu
+knn_cpu.cpp
+knn_cuda.cpp
 OPTIONS --cudart=shared  -lineinfo -arch sm_52 -use_fast_math -maxrregcount 104
 DEBUG -Xptxas -v -g -G 
 )
