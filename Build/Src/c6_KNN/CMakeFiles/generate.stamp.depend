@@ -1,5 +1,0 @@
-# CMake generation dependency list for this directory.
-C:/Users/h6gupta/Downloads/Nearest_Neighbours/Src/c6_KNN/CMakeLists.txt
-C:/Users/h6gupta/Downloads/Nearest_Neighbours/Build/Src/c6_KNN/CMakeFiles/KNN.dir/KNN_generated_KNN.cu.obj.depend
-C:/Program Files/CMake/share/cmake-3.10/Modules/FindCUDA/run_nvcc.cmake
-C:/Users/h6gupta/Downloads/Nearest_Neighbours/Build/Src/c6_KNN/CMakeFiles/KNN.dir/KNN_generated_KNN.cu.obj.cmake.pre-gen
