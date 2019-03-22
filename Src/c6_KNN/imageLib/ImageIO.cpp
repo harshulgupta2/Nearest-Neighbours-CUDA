@@ -617,8 +617,8 @@ void WriteImage(CImage& img, const char* filename)
 
 // read an image and perhaps tell the user you're doing so
 void ReadImageVerb(CImage& img, const char* filename, int verbose) {
-	if (verbose)
-		fprintf(stderr, "Reading image %s\n", filename);
+	//if (verbose)
+		//fprintf(stderr, "Reading image %s\n", filename);
 	ReadImage(img, filename);
 }
 
